@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi! It's me Aparajita! 👋
 
-<!--
-**aparajitakar/aparajitakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent graduate from the University of Minnesota, Twin Cities. My major is in Industrial Engineering (Data Analytics/Operations Research). I enjoy buidling models and finding data driven solutions to business problems using advanced analytics and Machine Learning. I mainly write code in Python and occassionally in R. 
 
-Here are some ideas to get you started:
+My skills and experiences are in the following domain:
+* Machine learning
+* Statistics
+* Optimization
+* Data Analysis
+ 
+- 🌱 I’m currently learning PostgreSQL
+- 🤔 I’m looking for help with my Data Science Interviews!
+- 💬 Ask me about Machine Learning, Statistics and Data Analytics 
+- 📫 If you have any opportunity in the data science domain, feel free to email me at kar00004@umn.edu
+- 😄 She/Her/Hers
+- ⚡ I love playing chess! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
