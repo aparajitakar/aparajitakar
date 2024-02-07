@@ -11,7 +11,7 @@ My skills and experiences are in the following domain:
 - 🌱 I’m currently learning PostgreSQL
 - 🤔 I’m looking for help with my Data Science Interviews!
 - 💬 Ask me about Machine Learning, Statistics and Data Analytics 
-- 📫 If you have any opportunity in the data science domain, feel free to email me at kar00004@umn.edu
+- 📫 If you have any opportunity in the data science domain, feel free to email me at aparajitakar@icloud.com
 - 😄 She/Her/Hers
 - ⚡ I love playing chess! 
 
